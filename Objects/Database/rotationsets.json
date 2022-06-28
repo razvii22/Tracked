@@ -1,0 +1,252 @@
+{"rotationSet": [
+
+{
+	"name": "P000010", /* X1 */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "Z" }
+	]
+},
+{
+	"name": "P001100", /* Z1 -Z1 */
+	"prop":true,
+	"rotation": [
+	{ "south": "Z", "east": "X" },
+	{ "south": "-Z", "east": "X" }
+	]
+},
+{
+	"name": "P000044", /* X -X */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "Z" },
+	{ "south": "-X", "east": "Z" },
+	{ "south": "Y", "east": "Z" },
+	{ "south": "X", "east": "Z" },
+	{ "south": "-Y", "east": "-Z" },
+	{ "south": "-X", "east": "-Z" },
+	{ "south": "Y", "east": "-Z" },
+	{ "south": "X", "east": "-Z" }
+	]
+},
+{
+	"name": "P004044", /* Z X -X */
+	"prop":true,
+	"rotation": [
+	{ "south": "Z", "east": "X" },
+	{ "south": "Z", "east": "-Y" },
+	{ "south": "Z", "east": "-X" },
+	{ "south": "Z", "east": "Y" },
+	{ "south": "-Y", "east": "Z" },
+	{ "south": "-X", "east": "Z" },
+	{ "south": "Y", "east": "Z" },
+	{ "south": "X", "east": "Z" },
+	{ "south": "-Y", "east": "-Z" },
+	{ "south": "-X", "east": "-Z" },
+	{ "south": "Y", "east": "-Z" },
+	{ "south": "X", "east": "-Z" }
+	]
+},
+{
+	"name": "P044000", /* -Y Z */
+	"prop":true,
+	"rotation": [
+	{ "south": "Y", "east": "X" },
+	{ "south": "X", "east": "-Y" },
+	{ "south": "-Y", "east": "-X" },
+	{ "south": "-X", "east": "Y" },
+	{ "south": "Z", "east": "X" },
+	{ "south": "Z", "east": "-Y" },
+	{ "south": "Z", "east": "-X" },
+	{ "south": "Z", "east": "Y" }
+	]
+},
+{
+	"name": "P201000", /* Y2 Z1 */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "X" },
+	{ "south": "-X", "east": "-Y" },
+	{ "south": "Z", "east": "X" }
+	]
+},
+{
+	"name": "P202000", /* Y2 Z2 */
+	"prop":true,
+	"rotation": [
+	{ "south": "Y", "east": "X" },
+	{ "south": "X", "east": "-Y" },
+	{ "south": "Z", "east": "X" },
+	{ "south": "Z", "east": "-Y" }
+	]
+},
+{
+	"name": "P204000", /* Y2 Z */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "X" },
+	{ "south": "-X", "east": "-Y" },
+	{ "south": "Z", "east": "X" },
+	{ "south": "Z", "east": "-Y" },
+	{ "south": "Z", "east": "-X" },
+	{ "south": "Z", "east": "Y" }
+	]
+},
+{
+	"name": "P400004", /* Y -X */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "X" },
+	{ "south": "-X", "east": "-Y" },
+	{ "south": "Y", "east": "-X" },
+	{ "south": "X", "east": "Y" },
+	{ "south": "-Y", "east": "-Z" },
+	{ "south": "-X", "east": "-Z" },
+	{ "south": "Y", "east": "-Z" },
+	{ "south": "X", "east": "-Z" }
+	]
+},
+{
+	"name": "P400040", /* Y X */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "X" },
+	{ "south": "-X", "east": "-Y" },
+	{ "south": "Y", "east": "-X" },
+	{ "south": "X", "east": "Y" },
+	{ "south": "-Y", "east": "Z" },
+	{ "south": "-X", "east": "Z" },
+	{ "south": "Y", "east": "Z" },
+	{ "south": "X", "east": "Z" }
+	]
+},
+{
+	"name": "P400400", /* Y -Z */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "X" },
+	{ "south": "-X", "east": "-Y" },
+	{ "south": "Y", "east": "-X" },
+	{ "south": "X", "east": "Y" },
+	{ "south": "-Z", "east": "X" },
+	{ "south": "-Z", "east": "-Y" },
+	{ "south": "-Z", "east": "-X" },
+	{ "south": "-Z", "east": "Y" }
+	]
+},
+{
+	"name": "P401100", /* Y Z1 -Z1 */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "X" },
+	{ "south": "-X", "east": "-Y" },
+	{ "south": "Y", "east": "-X" },
+	{ "south": "X", "east": "Y" },
+	{ "south": "Z", "east": "X" },
+	{ "south": "-Z", "east": "X" }
+	]
+},
+{
+	"name": "P404004", /* Y Z -X */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "X" },
+	{ "south": "-X", "east": "-Y" },
+	{ "south": "Y", "east": "-X" },
+	{ "south": "X", "east": "Y" },
+	{ "south": "Z", "east": "X" },
+	{ "south": "Z", "east": "-Y" },
+	{ "south": "Z", "east": "-X" },
+	{ "south": "Z", "east": "Y" },
+	{ "south": "-Y", "east": "-Z" },
+	{ "south": "-X", "east": "-Z" },
+	{ "south": "Y", "east": "-Z" },
+	{ "south": "X", "east": "-Z" }
+	]
+},
+{
+	"name": "P404040", /* Y Z X */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "X" },
+	{ "south": "-X", "east": "-Y" },
+	{ "south": "Y", "east": "-X" },
+	{ "south": "X", "east": "Y" },
+	{ "south": "Z", "east": "X" },
+	{ "south": "Z", "east": "-Y" },
+	{ "south": "Z", "east": "-X" },
+	{ "south": "Z", "east": "Y" },
+	{ "south": "-Y", "east": "Z" },
+	{ "south": "-X", "east": "Z" },
+	{ "south": "Y", "east": "Z" },
+	{ "south": "X", "east": "Z" }
+	]
+},
+{
+	"name": "P404044", /* Y Z X -X */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "X" },
+	{ "south": "-X", "east": "-Y" },
+	{ "south": "Y", "east": "-X" },
+	{ "south": "X", "east": "Y" },
+	{ "south": "Z", "east": "X" },
+	{ "south": "Z", "east": "-Y" },
+	{ "south": "Z", "east": "-X" },
+	{ "south": "Z", "east": "Y" },
+	{ "south": "-Y", "east": "Z" },
+	{ "south": "-X", "east": "Z" },
+	{ "south": "Y", "east": "Z" },
+	{ "south": "X", "east": "Z" },
+	{ "south": "-Y", "east": "-Z" },
+	{ "south": "-X", "east": "-Z" },
+	{ "south": "Y", "east": "-Z" },
+	{ "south": "X", "east": "-Z" }
+	]
+},
+{
+	"name": "P404444", /* Y Z -Z X -X */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "X" },
+	{ "south": "-X", "east": "-Y" },
+	{ "south": "Y", "east": "-X" },
+	{ "south": "X", "east": "Y" },
+	{ "south": "Z", "east": "X" },
+	{ "south": "Z", "east": "-Y" },
+	{ "south": "Z", "east": "-X" },
+	{ "south": "Z", "east": "Y" },
+	{ "south": "-Z", "east": "X" },
+	{ "south": "-Z", "east": "-Y" },
+	{ "south": "-Z", "east": "-X" },
+	{ "south": "-Z", "east": "Y" },
+	{ "south": "-Y", "east": "Z" },
+	{ "south": "-X", "east": "Z" },
+	{ "south": "Y", "east": "Z" },
+	{ "south": "X", "east": "Z" },
+	{ "south": "-Y", "east": "-Z" },
+	{ "south": "-X", "east": "-Z" },
+	{ "south": "Y", "east": "-Z" },
+	{ "south": "X", "east": "-Z" }
+	]
+},
+{
+	"name": "P440040", /* Y -Y X */
+	"prop":true,
+	"rotation": [
+	{ "south": "-Y", "east": "X" },
+	{ "south": "-X", "east": "-Y" },
+	{ "south": "Y", "east": "-X" },
+	{ "south": "X", "east": "Y" },
+	{ "south": "Y", "east": "X" },
+	{ "south": "X", "east": "-Y" },
+	{ "south": "-Y", "east": "-X" },
+	{ "south": "-X", "east": "Y" },
+	{ "south": "-Y", "east": "Z" },
+	{ "south": "-X", "east": "Z" },
+	{ "south": "Y", "east": "Z" },
+	{ "south": "X", "east": "Z" }
+	]
+}
+
+]}

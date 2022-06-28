@@ -1,0 +1,10 @@
+{
+   "allow_add_mods" : true,
+   "custom_icons" : false,
+   "description" : "MJM stopped modding apparently and I just wanted the tracks from his mod, this is literally just that, the tracks and engine.\nDifferences:The engine has a speed cap, you can no longer go to infinity and beyond.\nmay work on this more, may not, im not a modder, sorry :(",
+   "fileId" : 2823820463,
+   "localId" : "9ca519fb-3f12-44b3-a03f-f2b9a0e0edd8",
+   "name" : "Tracked",
+   "type" : "Blocks and Parts",
+   "version" : 1
+}

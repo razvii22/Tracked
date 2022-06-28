@@ -1,0 +1,26 @@
+{"partList" : [
+{
+	"uuid": "92c856e6-9a9b-4832-91f0-2c741258b40b",
+	"name": "Tank engine",
+	"renderable": {"lodList": [{
+	"subMeshList": [
+		{"textureList": [
+		"$MOD_DATA/Objects/Textures/mjm_pallet1_dif.tga",
+		"$MOD_DATA/Objects/Textures/mjm_pallet1_asg.tga"],
+		"material": "DifAsg"}
+	],
+	"mesh": "$MOD_DATA/Objects/Mesh/TankEngine.fbx"
+	}]},
+	"scripted" : {
+		"filename": "$MOD_DATA/Scripts/TankEngine.lua",
+		"classname": "TankEngine" },
+	"rotationSet": "P404040",
+	"color": "df7f00",
+	"density": 500.0,
+	"physicsMaterial": "Plastic",
+	"box": { "x": 4, "y": 3, "z": 2 },
+	"qualityLevel": 5,
+	"stackSize": 1,
+	"previewRotation": [ -1, 0, 0, 0, -1, 0, 0, 0, 1 ]
+}
+]}
